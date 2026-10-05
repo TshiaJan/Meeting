@@ -52,5 +52,5 @@ We may periodically revise this policy to reflect new capabilities or regulatory
 If you have questions, feedback, or data privacy requests regarding Meeting AI:
 
 - **Developer:** Tshiamo Jantjie
-- **Email:** tshiajan@gmail.com
+- **Email:** janairedev@gmail.com
 - **Hosted Policy URL:** https://tshiajan.github.io/meeting-ai-privacy/
